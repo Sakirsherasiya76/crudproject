@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": 7,
+      "name": "rijvan ",
+      "email": "rijvansherasiya@gmail.com",
+      "phone": "3569095648123"
+    },
+    {
+      "id": 8,
+      "name": "hassmin ",
+      "email": "kgn@gmail.com",
+      "phone": "457825648"
+    },
+    {
+      "id": 6,
+      "name": "location name",
+      "email": "location@gmail.com",
+      "phone": "94534874354"
+    },
+    {
+      "id": 4,
+      "name": "sakir sherasiya bro",
+      "email": "sakirsherasiya@gmail.com",
+      "phone": "6384658416"
+    },
+    {
+      "id": 5,
+      "name": "sakir",
+      "email": "saki@gmail.com",
+      "phone": "45871269881"
+    }
+  ]
+}
